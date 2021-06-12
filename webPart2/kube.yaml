@@ -1,0 +1,12 @@
+apiVersion: apps/v1
+kind: Deployment
+metadata:
+  name: nginx-webserver
+  labels:
+    app: nginx
+spec:
+  containers:
+    - name: nginx
+      image: task2:1.0
+      ports:
+        - containerPort: 80

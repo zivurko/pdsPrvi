@@ -1,0 +1,13 @@
+{
+    "id":"id0011",
+    "ime":"Pera",
+    "prezime":"Peric",
+    "smer":"RI",
+    "predmeti":["Uvod u programiranje","ORS","Matematicka analiza, PDS"],
+    "prosek":8.5,
+    "kontakt":{
+        "adresa":"Takovska",
+        "mesto":"Beograd",
+        "telefon":0610000111
+    }
+}
